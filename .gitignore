@@ -1,1 +1,7 @@
 .buildozer
+
+./demo-app/.buildozer
+
+./opencv-nd/.buildozer
+./test2/.buildozer
+./test3/.buildozer
