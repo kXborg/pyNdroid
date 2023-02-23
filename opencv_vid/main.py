@@ -6,7 +6,6 @@ from kivy.clock import Clock
 from kivy.graphics.texture import Texture
 import cv2
 import kivy 
-kivy.require('1.9.0')
 
 
 class MainApp(MDApp):
